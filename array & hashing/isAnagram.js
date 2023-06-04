@@ -1,7 +1,7 @@
 /**
  * HashMap - Frequency Counter
  * Time O(n) | Space O(1)
- * https://leetcode.com/problems/contains-duplicate/
+ * https://leetcode.com/problems/valid-anagram/
  * @param {string} s
  * @param {string} t
  * @return {boolean}
