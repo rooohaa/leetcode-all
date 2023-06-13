@@ -1,4 +1,6 @@
 /**
+ * Time O(n) | Space O(1)
+ * https://leetcode.com/problems/sign-of-the-product-of-an-array/
  * @param {number[]} nums
  * @return {number}
  */

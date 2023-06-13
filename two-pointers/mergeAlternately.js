@@ -1,4 +1,7 @@
 /**
+ * Two pointers
+ * Time O(n + m) | Space O(n)
+ * https://leetcode.com/problems/merge-strings-alternately/description/
  * @param {string} word1
  * @param {string} word2
  * @return {string}
